@@ -159,7 +159,7 @@ The system consists of **3 independently addressable cabinet units**, each fitte
 
 - [x] Core hardware architecture (Arduino + ESP8266 + DS3231 + PCF8574)
 - [x] PRD & system design documentation
-- [ ] Electrical Schema for implementation.
+- [x] Electrical Schema for implementation.
 - [ ] I2C driver implementation (`i2c.c`)
 - [ ] DS3231 RTC driver (`rtc_ds3231.c`)
 - [ ] PCF8574 + relay control (`pcf8574.c`, `relay_ctrl.c`)
